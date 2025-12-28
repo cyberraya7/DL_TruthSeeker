@@ -1,3 +1,5 @@
+## TruthSeeker-Deep Learning Assignment
+
 ## 1. Objectives
 
 The **TruthSeeker** project builds an end‑to‑end deep learning pipeline on the `Truth_Seeker_Model_Dataset` to perform **multi‑class classification** of human judgment outcomes.  
